@@ -22,7 +22,7 @@ def convert(data, person):
 
 # 寫入檔案
 def write_file(filename, data):
-    with open('output.txt', 'w', encoding = 'utf-8-sig') as f:
+    with open(filename, 'w', encoding = 'utf-8-sig') as f:
         for c in data:
             f.write(c + '\n')
 
