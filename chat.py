@@ -11,11 +11,13 @@ def read_file(filename):
 # 改寫對話紀錄形式
 def convert(data, person):
     chat = []
+    name = None
     for c in data:
         if c in person:
             name = c
             continue
-        chat.append(name + ': ' + c)
+        if name:
+            chat.append(name + ': ' + c)
     return chat
 
 # 寫入檔案
