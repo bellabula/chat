@@ -1,0 +1,33 @@
+﻿Allen: 請問分公司代號是 9432 嗎
+Viki: 那是據點代號
+Viki: 如果是語音
+Viki: 我們的代號是24
+Allen: 好
+Viki: 先解鎖
+Viki: 後面我再教您如何作業
+Allen: 已經解鎖
+Allen: 軟體可以登入
+Allen: 但申請的地方還是登入不了
+Allen: 圖片
+Viki: 您是不是用EDGE？
+Viki: 或者CHOME？
+Viki: Chrome?
+Allen: 這是下載下來的程式
+Viki: 公司目前只接受用IE
+Viki: 其它不能用哦
+Allen: 從申請專區按立刻申請  就會下載這個程式
+Allen: 圖片
+Allen: 這個按下去會下載程式   打開來就是我剛剛登入不了的地方
+Viki: 未接來電
+Viki: 貼圖
+Viki: 後來有搞定嗎？
+Viki: 我先說明幾個重點讓您試試
+Viki: 第一要用IE，不能用edge或chrome
+Viki: 圖片
+Viki: 如果您確定您登入的是IE無誤再麻煩您做二個歩驟
+Viki: 圖片
+Viki: 圖片
+Viki: 圖片
+Viki: 把安控元件及環境調整跑一跑
+Viki: 有95%的機率會OK
+Allen: 好，我現在試試看
